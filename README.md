@@ -2,6 +2,12 @@
 
 **Modelo de Machine Learning que identifica si un video en TikTok contiene una opinión o un reclamo, utilizando variables estructurales y análisis textual.**
 
+![image](https://github.com/user-attachments/assets/ea32641c-0526-4f58-a282-7c487124f74f)
+
+
+
+
+
 ## 📌 Objetivo del proyecto
 
 Desarrollar un clasificador robusto basado en aprendizaje automático que permita distinguir entre opiniones y reclamos en videos de TikTok, apoyándose en texto transcrito y metadatos de engagement.
