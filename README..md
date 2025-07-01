@@ -4,6 +4,11 @@
 
 **A machine learning solution to detect whether a TikTok video expresses a personal opinion or a complaint, using metadata and transcribed text.**
 
+
+![image](https://github.com/user-attachments/assets/ea32641c-0526-4f58-a282-7c487124f74f)
+
+
+
 ## 📌 Objective
 
 To build a robust and interpretable classifier that distinguishes between *opinions* and *complaints* in TikTok videos using both structured features and textual content. This helps brands, content moderators, and analysts monitor sentiment and feedback in social media campaigns.
